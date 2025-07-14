@@ -7,3 +7,5 @@ print("smaple width " , obj.getsampwidth())
 print("frame rate " , obj.getframerate())
 print("number of frames " , obj.getnframes())
 print("parameters " , obj.getparams())
+
+t_audio =obj.getnframes() /obj.
